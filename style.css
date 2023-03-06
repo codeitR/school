@@ -1,0 +1,22 @@
+h1 {
+    font-size: 40px;
+    color: pink;
+  }
+  
+  h2 {
+    font-size: 30px;
+    color: green;
+  }
+  
+  h3 {
+    font-size: 20px;
+    color: yellow;
+  }
+  
+  .lorem-text {
+    font-size: 20px;
+    color: white;
+    background-color: #262626; 
+  }
+  
+  
