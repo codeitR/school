@@ -1,16 +1,16 @@
 h1 {
     font-size: 40px;
-    color: pink;
+    color: rgb(216, 9, 9);
   }
   
   h2 {
     font-size: 30px;
-    color: green;
+    color: rgb(28, 123, 191);
   }
   
   h3 {
     font-size: 20px;
-    color: yellow;
+    color: rgb(0, 128, 255);
   }
   
   .lorem-text {
